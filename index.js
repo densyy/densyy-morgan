@@ -9,4 +9,4 @@ function densyyMorgan (req, res, next) {
   next()
 }
 
-module.exports = { densyyMorgan }
+module.exports = densyyMorgan
